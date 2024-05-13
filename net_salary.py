@@ -74,7 +74,7 @@ else:
 
 # Saída de dados
 print('-------------------------------------------')
-print(f'Valor de contribuição ao INSS:  R$ {round(inss, 2)}')
-print(f'Valor de descontos do IRRF:     R$ {round(irrf, 2)}')
+print(f'Valor de contribuição ao INSS:  R$ {inss:.2f}')
+print(f'Valor de descontos do IRRF:     R$ {irrf:.2f}')
 print('-------------------------------------------')
-print(f'  Total do salário líquido:     R$ {round(salarioLiq,2 )}\n')
+print(f'  Total do salário líquido:     R$ {salarioLiq:.2f}\n')
