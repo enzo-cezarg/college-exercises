@@ -1,4 +1,4 @@
-import sys, math
+import sys
 
 # Entrada de dados
 hInicio = int(input('Qual o horário de início do jogo? (apenas hora)'))
