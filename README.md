@@ -1,7 +1,14 @@
-# college-exercises
+# 📖 college-exercises
 
-Just some college exercises written in Python.<br>
-Language: PT-BR
+College exercises written in Python.<br>
+Language: PT-BR 🇧🇷
+### Separated by: 
+- calculators; 
+- games ;
+- statistics;
+- utilities; 
+
+
 
 To run any of them, open the terminal and run:
 ```
