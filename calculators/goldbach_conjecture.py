@@ -1,3 +1,4 @@
+# Leitura do número de pares
 quant = int(input('Informe a quantidade de números pares: '))
 while quant <= 0:
     print('O valor deve ser positivo.')
@@ -7,6 +8,7 @@ print('===='*15)
 num = 4
 pares = 1
 
+# Loop de verificação e output do programa
 while pares <= quant:
     parte1 = num // 2
     parte2 = parte1
