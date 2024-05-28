@@ -15,12 +15,12 @@ print('===='*20)
 print(jogadores)
 estatisticas = []
 
-for dados in jogadores:
+for tupla in jogadores:
     soma = 0
     for i in range(1, 4):
-        soma += dados[i]
+        soma += tupla[i]
     media = soma/3
-    estatisticas.append((dados[0], media))
+    estatisticas.append((tupla[0], media))
 
 print('===='*20)
 print(estatisticas)
