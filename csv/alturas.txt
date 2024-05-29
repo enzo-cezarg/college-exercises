@@ -1,0 +1,5 @@
+enzo, 2.0
+joao, 2.0
+carlos, 2.4
+maria, 1.5
+silvio, 1.5
